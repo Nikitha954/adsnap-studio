@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# adsnap-studio
+=======
+>>>>>>> bc81489 (Resolve merge conflicts)
 # 🎨 AdSnap Studio
 
 A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs.
@@ -38,20 +44,31 @@ streamlit run app.py
 
 ## 💡 Usage
 
+<<<<<<< HEAD
 1. Enter a product description or upload an image.
+=======
+1. Enter a product description or upload an image
+>>>>>>> bc81489 (Resolve merge conflicts)
 2. Configure generation options in the sidebar:
    - Enhance prompt with AI
    - Remove background
    - Add shadows
    - Generate lifestyle shots
+<<<<<<< HEAD
 3. Adjust advanced settings like background color and shadow intensity.
 4. Click "Generate Ad" to create your images.
 5. Download the results.
+=======
+3. Adjust advanced settings like background color and shadow intensity
+4. Click "Generate Ad" to create your images
+5. Download the results
+>>>>>>> bc81489 (Resolve merge conflicts)
 
 ## 🔧 Configuration
 
 The app supports various configuration options through the UI:
 
+<<<<<<< HEAD
 - **Prompt Enhancement**: Improve your text prompts with AI.
 - **Background Removal**: Remove backgrounds with custom colors.
 - **Shadow Effects**: Add realistic shadows with adjustable intensity.
@@ -65,6 +82,21 @@ The app supports various configuration options through the UI:
 3. Commit your changes (`git commit -m 'Add amazing feature'`).
 4. Push to the branch (`git push origin feature/amazing-feature`).
 5. Open a Pull Request.
+=======
+- **Prompt Enhancement**: Improve your text prompts with AI
+- **Background Removal**: Remove backgrounds with custom colors
+- **Shadow Effects**: Add realistic shadows with adjustable intensity
+- **Lifestyle Shots**: Place products in context using text or reference images
+- **CTA Text**: Add optional call-to-action text overlays
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+>>>>>>> bc81489 (Resolve merge conflicts)
 
 ## 📝 License
 
@@ -72,5 +104,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+<<<<<<< HEAD
 - [Bria AI](https://bria.ai) for their powerful image generation APIs.
 - [Streamlit](https://streamlit.io) for the amazing web framework.
+=======
+- [Bria AI](https://bria.ai) for their powerful image generation APIs
+- [Streamlit](https://streamlit.io) for the amazing web framework 
+>>>>>>> cdc3ffa (Initial commit)
+>>>>>>> bc81489 (Resolve merge conflicts)
